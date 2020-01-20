@@ -130,3 +130,6 @@ dmypy.json
 
 # IDE settings
 .idea
+
+# secret config
+meal_plan_proj/config.py
